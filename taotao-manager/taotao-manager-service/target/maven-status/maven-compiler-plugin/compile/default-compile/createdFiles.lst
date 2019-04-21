@@ -1,0 +1,14 @@
+com\taotao\service\pojo\PictureServiceImpl.class
+com\taotao\service\ItemService.class
+com\taotao\service\ItemParamItemService.class
+com\taotao\service\PictureService.class
+com\taotao\service\pojo\ItemCatServiceImpl.class
+com\taotao\service\pojo\ItemParamItemServiceImpl.class
+com\taotao\service\ContentService.class
+com\taotao\service\pojo\ItemParamServiceImpl.class
+com\taotao\service\pojo\ItemServiceImpl.class
+com\taotao\service\ItemCatService.class
+com\taotao\service\pojo\ContextCategoryServiceImpl.class
+com\taotao\service\ContentCategoryService.class
+com\taotao\service\pojo\ContentServiceImpl.class
+com\taotao\service\ItemParamService.class
